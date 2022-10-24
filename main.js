@@ -28,5 +28,4 @@ const startOsuBot = async () => {
         console.log(err)
     }
 }
-
 startOsuBot();

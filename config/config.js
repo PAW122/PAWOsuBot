@@ -1,7 +1,7 @@
 require('dotenv').config();
 
 module.exports = {
-     Username: process.env.USERNAME,
+     Username: process.env.LOGIN,
      Password: process.env.PASSWORD,
      prefix: "$",
      commands_logs: true,

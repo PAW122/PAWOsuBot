@@ -5,7 +5,8 @@ Osu chat bot
 Auto respond on private messages
 
 # how add new commands?
- Go into commands folder and create file,
+ Go into commands folder and create folder for your commands
+ Next in this folder add your new file,
  Copy code from existing command and change
  Name(word what triger command)
  SendMessage(put there your response on command)

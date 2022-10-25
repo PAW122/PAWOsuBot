@@ -19,3 +19,6 @@ Auto respond on private messages
 
  How get login and password?
  Use: https://osu.ppy.sh/p/irc
+
+# required:
+ Node.js

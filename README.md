@@ -8,4 +8,6 @@ Auto respond on private messages
  Go into commands folder and create file,
  Copy code from existing command and change
  Name(word what triger command)
+ SendMessage(put there your response on command)
+
  

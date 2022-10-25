@@ -16,3 +16,6 @@ Auto respond on private messages
  How its should look in file?
  LOGIN=your login
  PASSWORD=your password
+
+ How get login and password?
+ Use: https://osu.ppy.sh/forum/ucp.php?mode=login

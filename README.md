@@ -10,4 +10,6 @@ Auto respond on private messages
  Name(word what triger command)
  SendMessage(put there your response on command)
 
+# how add bot to your osu account?
+ Create .env file with your login data fron osu webside
  

@@ -13,3 +13,6 @@ Auto respond on private messages
 # how add bot to your osu account?
  Create .env file with your login data fron osu webside
  
+ How its should look in file?
+ LOGIN=your login
+ PASSWORD=your password

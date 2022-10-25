@@ -18,4 +18,4 @@ Auto respond on private messages
  PASSWORD=your password
 
  How get login and password?
- Use: https://osu.ppy.sh/forum/ucp.php?mode=login
+ Use: https://osu.ppy.sh/p/irc

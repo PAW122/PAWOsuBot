@@ -5,5 +5,5 @@ module.exports = {
      Password: process.env.PASSWORD,
      prefix: "$",
      commands_logs: true,
-     GutHubLink: "https://github.com/PAW122/osuPawBot/blob/main/README.md"
+     GutHubLink: "https://github.com/PAW122/PAWOsuBot"
 }

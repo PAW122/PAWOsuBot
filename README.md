@@ -24,3 +24,7 @@ Auto respond on private messages
 # required:
  Node.js <br />
  dowloadn: https://nodejs.org/en/
+
+# start bot
+ Open cmd in main folder and type : <br />
+ <h1>node main.js</h1>

@@ -27,4 +27,4 @@ Auto respond on private messages
 
 # start bot
  Open cmd in main folder and type : <br />
- <h1>node main.js</h1>
+ node main.js
